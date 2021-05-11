@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Visiting_Card</string>
+    <string name="employee_name">Nobert</string>
+    <string name="designation">Application Dev</string>
+    <string name="phone">9091914689</string>
+    <string name="email">nobert@tech.com</string>
+
+    <string name="address">Bengaluru</string>
+
+
+
+
+
+
+</resources>
